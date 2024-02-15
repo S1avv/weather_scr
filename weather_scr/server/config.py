@@ -1,0 +1,1 @@
+TOKEN = "" # Site: https://www.weatherapi.com/

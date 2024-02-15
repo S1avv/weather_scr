@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "weather-scr"
+version = "0.1.0"
+description = ""
+authors = ["S1avv <code.launchx@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.31.0"
+flet = "^0.20.0"
+fastapi = "^0.109.2"
+uvicorn = "^0.27.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
